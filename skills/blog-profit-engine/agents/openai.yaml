@@ -1,0 +1,4 @@
+interface:
+  display_name: "블로그 수익화 엔진"
+  short_description: "SEO 원고·이미지 제작부터 수익화·임시 저장 검증까지 지원"
+  default_prompt: "$blog-profit-engine를 사용해 내 블로그의 현재 병목을 진단하고 가장 효과가 큰 다음 행동을 제안해 주세요."
