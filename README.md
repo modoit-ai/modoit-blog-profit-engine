@@ -19,7 +19,7 @@
 Codex 대화창에 아래 문장을 그대로 입력하세요.
 
 ```text
-$skill-installer를 사용해서 https://github.com/anais030505-cmyk/modoit-blog-profit-engine/tree/main/skills/blog-profit-engine 의 스킬을 설치해줘.
+$skill-installer를 사용해서 https://github.com/modoit-ai/modoit-blog-profit-engine/tree/main/skills/blog-profit-engine 의 스킬을 설치해줘.
 ```
 
 설치 후 스킬이 보이지 않으면 Codex를 다시 시작하세요.
